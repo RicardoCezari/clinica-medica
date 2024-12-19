@@ -1,0 +1,14 @@
+
+{
+    "users": [
+      {
+        "email": "user@medica.com",
+        "password": "senha123",
+        "name": "Ricardo"
+      }
+    ],
+    "consultas": [
+      { "id": 1, "data": "2024-12-20", "medico": "Dr. Ricardo" },
+      { "id": 2, "data": "2024-12-22", "medico": "Dr. Cézari" }
+    ]
+  }
